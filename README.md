@@ -9,7 +9,7 @@ I'm a Software Engineer with over 10+ years of hands-on experience in creating a
 
 ### Public Projects and Repositories
 
-[![Linkedin](./assets/organization.png)](https://github.com/solidnetwork-bank/)
+[![Linkedin](./assets/organization.png)](https://github.com/myrgth/)
 
 ### Skills
 
